@@ -5,5 +5,6 @@ public class Main {
         int numberCount = 5;
         System.out.println("Hello World!" + numberCount);
         System.out.println("Hello!" + numberCount);
+        System.out.println("Hello World!" + numberCount);
     }
 }
